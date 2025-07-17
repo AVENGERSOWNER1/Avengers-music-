@@ -50,12 +50,12 @@ async def init():
         pass
     await Istkhar.decorators()
     LOGGER("IstkharMusic").info(
-      "-1002447776304"
+      "-1002734717816"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("IstkharMusic").info("Stopping Istkhar Music Bot...")
+    LOGGER("IstkharMusic").info("Stopping Jani Music Bot...")
 
 
 if __name__ == "__main__":
