@@ -54,7 +54,7 @@
 <h2 align="center">🚀 One-Click Deploy to Heroku</h2>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/JaniRPLover/Jani-rp-lover">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/AVENGERSOWNER1/Avengers-music-">
     <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
   </a>
 </p>
